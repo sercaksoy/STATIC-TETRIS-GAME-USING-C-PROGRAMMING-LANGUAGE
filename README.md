@@ -10,4 +10,4 @@ It is my very first project using C. It is actually my semester project from "In
 
 " screenshots " folder contains different screenshots from the game. In these shots instructions were written in Turkish(my native language) but i translated it into English and " tetris.c " is the new version. 
 
-<p style="color : blue"> selamlar </p>
+<p style="color:blue;"> selamlar </p>

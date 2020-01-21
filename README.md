@@ -1,6 +1,6 @@
 <DOCTYPE html>
 
-<h1 style="color:red;"> STATIC-TETRIS-GAME-USING-C-PROGRAMMING-LANGUAGE </h1>
+<h1 style="color:red; font-family:Comic Sans MS;"> STATIC-TETRIS-GAME-USING-C-PROGRAMMING-LANGUAGE </h1>
 
 
 

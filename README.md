@@ -4,8 +4,8 @@
 
 
 
-
-It is my very first project using C. It is actually my semester project from "Introduction to Computer Science" class. I tried to do my best. I am not saying that it is best also :) . You can send your fixes or comments through email. (sercaksoy@gmail.com)
+<p>
+It is my very first project using C. It is actually my semester project from "Introduction to Computer Science" class. I tried to do my best. I am not saying that it is best also :) . You can send your fixes or comments through email. (sercaksoy@gmail.com)</p>
 
 
 <p>" <i>BLM1011_Semester_Project.pdf</i> " is professors requests. I know my tetris a little bit different from  that but i asked for it and professor said it is fine.</p>
